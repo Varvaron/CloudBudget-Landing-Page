@@ -499,20 +499,3 @@ a {
 .footer-copyright {
     margin-top: 140px;
 }
-.footer-nav-social {
-    display: inline-block;
-    margin-top: 20px;
-    margin-right: 12px;
-    width: 14px;
-    height: 14px;
-    background: url(images/icons/Social.png) no-repeat;
-}
-.footer-nav-social:first-child {
-    background-position: 0 0;
-}
-.footer-nav-social:nth-child(2n) {
-    background-position: 50% 0;
-}
-.footer-nav-social:last-child {
-    background-position: 100% 0;
-}
